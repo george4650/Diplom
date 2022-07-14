@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="главная.AamZC" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\главная.AamZC.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1613447712_50-p-fon-dlya-prezentatsii-pro-meditsinu-55__2_.FZlLG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1613447712_50-p-fon-dlya-prezentatsii-pro-meditsinu-55__2_.FZlLG.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="главная_tl3wh_cut-photo_ru.OPtJX" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\главная_tl3wh_cut-photo_ru.OPtJX.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="corona-gfeece6654_640" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\corona-gfeece6654_640.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="качество-лекарств.QIrh8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\качество-лекарств.QIrh8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="depositphotos_165903930-stock-photo-assorted-pharmaceutical-medicine1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\depositphotos_165903930-stock-photo-assorted-pharmaceutical-medicine.O5WZq1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="corona-gfeece6654_6401" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\corona-gfeece6654_6401.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="corona-gfeece6654_6403" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\corona-gfeece6654_640.ntLU22.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="medicine-g338760d78_6401" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\medicine-g338760d78_6401.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vrach" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vrach.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="склад.jdaZ2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\склад.jdaZ2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="рассчет.ChxgZ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\рассчет.ChxgZ.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="stock-photo-top-view-frame-made-different (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\stock-photo-top-view-frame-made-different (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="качество-лекарств2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\качество-лекарств.QIrh82.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="главная.tL3wH_cut-photo.ru" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\главная.tL3wH_cut-photo.ru.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="учет1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\учет.zZlYl1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="scale_1200" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\scale_1200.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tlb-logout-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tlb-logout-11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="снимок.UXx6j" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\снимок.UXx6j.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="склад" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\склад.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="главная1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\главная.tL3wH1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="обработки-и-екарства-в-группе-в-составе-кучи-пи-ю-ьки-и-vit-76264140" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\обработки-и-екарства-в-группе-в-составе-кучи-пи-ю-ьки-и-vit-76264140.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="главная.3hzN4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\главная.3hzN4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lek" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lek.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maxresdefault" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\maxresdefault.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="лекарство" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\лекарство.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="загр1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\загр1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vertical-pharma" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vertical-pharma.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="загруженное(1)2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\загруженное(1)2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="лекарство.WhaJT" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\лекарство.WhaJT.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="изобр.d4FYH" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\изобр.d4FYH.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="главная.tL3wH" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\главная.tL3wH.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="качество-лекарств1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\качество-лекарств.QIrh81.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="загр" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\загр.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wptbqkrivq4.mDSzY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wptbqkrivq4.mDSzY.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="corona-gfeece6654_6402" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\corona-gfeece6654_640.ntLU21.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tlb-logout-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tlb-logout-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3a91c42f5d7c7538f31a39085a10b6d5.1fIav" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3a91c42f5d7c7538f31a39085a10b6d5.1fIav.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="depositphotos_165903930-stock-photo-assorted-pharmaceutical-medicine.O5WZq" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\depositphotos_165903930-stock-photo-assorted-pharmaceutical-medicine.O5WZq.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="таблетка.SQjgM" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\таблетка.SQjgM.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="снимок" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\снимок.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="учет.zZlYl" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\учет.zZlYl.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vmuyk4lo9VQ" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vmuyk4lo9VQ.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="76bbd3c385c2ee244a8256bc59a3af68.efnT1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\76bbd3c385c2ee244a8256bc59a3af68.efnT1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="загруженное(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\загруженное(1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="medicine-g338760d78_640" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\medicine-g338760d78_640.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="stock-photo-top-view-frame-made-different" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\stock-photo-top-view-frame-made-different.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="загр2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\загр2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="corona-gfeece6654_640.ntLU2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\corona-gfeece6654_640.ntLU2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1620202837_48-phonoteka_org-p-farmatsevt-fon-65" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1620202837_48-phonoteka_org-p-farmatsevt-fon-65.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisspng-computer-icons-login-iconfinder-door-login-icon-5ab05c5de38940.227248321521507421932" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisspng-computer-icons-login-iconfinder-door-login-icon-5ab05c5de38940.227248321521507421932.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="scale_12001" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\scale_12001.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3a91c42f5d7c7538f31a39085a10b6d51" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3a91c42f5d7c7538f31a39085a10b6d5.1fIav1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="depositphotos_165903930-stock-photo-assorted-pharmaceutical-medicine_o5wzq.vzort" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\depositphotos_165903930-stock-photo-assorted-pharmaceutical-medicine_o5wzq.vzort.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="загруженное(1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\загруженное(1)1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="stock-photo-top-view-frame-made-different__2_.DWVb9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\stock-photo-top-view-frame-made-different__2_.DWVb9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vmuyk4lo9vq.Nakrw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vmuyk4lo9vq.Nakrw.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tlb-logout-12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tlb-logout-12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="таблетка" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\таблетка.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1613447712_50-p-fon-dlya-prezentatsii-pro-meditsinu-55 (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1613447712_50-p-fon-dlya-prezentatsii-pro-meditsinu-55 (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="top-view-health-still-life-with-copy-space" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top-view-health-still-life-with-copy-space.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="top-view-health-still-life-with-copy-space1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\top-view-health-still-life-with-copy-space1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1644884239_40-kartinkin-net-p-meditsinskie-kartinki-42.Nq7QR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1644884239_40-kartinkin-net-p-meditsinskie-kartinki-42.Nq7QR.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
